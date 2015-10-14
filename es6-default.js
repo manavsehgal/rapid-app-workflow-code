@@ -11,4 +11,4 @@ console.log("Collections: Map");
 
 myMap.forEach(function(value, key) {
   console.log(key + " = " + value);
-}, myMap)
+}, myMap);
