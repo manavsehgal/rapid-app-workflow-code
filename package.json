@@ -1,0 +1,20 @@
+{
+  "name": "rapid-app-workflow-code",
+  "version": "1.0.0",
+  "description": "Code behind the book on Rapid App Workflow.",
+  "main": "es6-default.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manavsehgal/rapid-app-workflow-code.git"
+  },
+  "author": "Manav Sehgal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manavsehgal/rapid-app-workflow-code/issues"
+  },
+  "homepage": "https://github.com/manavsehgal/rapid-app-workflow-code#readme"
+}
